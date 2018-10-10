@@ -1,0 +1,36 @@
+html{
+       background-color: pink;
+}
+body{
+       background-color: purple;
+       border: 40px solid green;
+       text-align: center;
+       
+       /* margin: 0px; */
+       border-top: 0px;
+}
+h1
+{
+       text-align: center;
+}
+h2
+{
+       text-align: center;
+}
+p
+{
+       padding: 5px 200px 0px 200px;
+
+}
+form{
+       font-size: 1.5em;
+}
+#smp{
+       background-color: yellow;
+       height: 60px;
+       width: 150px;
+       /* margin: 4px; */
+       margin-top:1px;
+       font-size: 1em;
+       border-radius: 15px;
+}

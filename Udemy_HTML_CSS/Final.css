@@ -1,0 +1,25 @@
+h1{
+       text-align: center;
+       font-style: oblique;
+}
+td{
+       background: yellow;
+       height: 400px;
+       width: 200px;
+       border: 7px double white;
+}
+#one{
+       background-color: red;
+}
+#two{
+       background: pink;
+}
+#three{
+       background-color: green;
+}
+#four{
+       background-color: grey;
+}
+#art{
+       margin: auto;
+}

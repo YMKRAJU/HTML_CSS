@@ -1,0 +1,15 @@
+h1{
+       color: red;
+       background-color: purple;
+       background: yellow;
+       border-width: thick;
+       border-style: double;
+}
+p{
+       color: #4ed869;
+       background-color: rgb(9, 99, 27)
+}
+body{
+       background-image: url(https://pixabay.com/en/lion-wild-africa-african-felines-1118467/);
+
+}
